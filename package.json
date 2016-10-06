@@ -1,0 +1,20 @@
+{
+  "name": "font-roboto-local",
+  "version": "1.0.1",
+  "description": "The latest version of Roboto is designed for both mobile and web usage.",
+  "main": "roboto.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvasilkov/font-roboto-local.git"
+  },
+  "keywords": [
+    "font",
+    "roboto"
+  ],
+  "author": "The Polymer Project Authors",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/mvasilkov/font-roboto-local/issues"
+  },
+  "homepage": "https://github.com/mvasilkov/font-roboto-local#readme"
+}
